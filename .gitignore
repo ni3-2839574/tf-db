@@ -1,3 +1,10 @@
 ### IDE ###
 .idea/
 
+### Terraform ###
+
+# Compiled files
+*.tfstate
+*.tfstate.*
+*.lock.hcl
+
